@@ -1,6 +1,7 @@
 Developing my blog-articles using the powerful
 Jekyll-BootStrap-Github services
 
+Blog [ici](http://yerva.github.com)
 
 
 # Jekyll-Bootstrap
